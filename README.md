@@ -5,6 +5,7 @@ Welcome!
 ## Files
 
 [Lab Doc](./labs.pdf)
+[Slides 1](./slides-1.pdf)
 
 ## Session Feedback
 
