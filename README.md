@@ -4,8 +4,9 @@ Welcome!
 
 ## Files
 
-[Lab Doc](./labs.pdf)
-[Slides 1](./slides-1.pdf)
+- [Lab Doc](./labs.pdf)
+- [Slides 1](./slides-1.pdf)
+- [Slides 2](./Module-Communication.pdf)
 
 ## Session Feedback
 
